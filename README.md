@@ -123,10 +123,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 If you use this code or findings in your research, please cite:
 ```bibtex
-@thesis{hartnett2025iron,
+@thesis{hartnett2024iron,
   title={Iron Levels and Depression Symptoms in US Pregnant, Nonpregnant, and Postpartum Women: NHANES 2005-2010 & 2015-2018},
   author={Hartnett, Eileen and Radin, Elizabeth},
-  year={2025},
+  year={2024},
   school={[Columbia University]}
 }
 ```
