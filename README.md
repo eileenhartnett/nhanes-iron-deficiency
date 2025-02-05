@@ -35,10 +35,32 @@ How do iron deficiency and ferritin levels relate to depressive symptoms across 
 - Adjustment for key demographic and clinical covariates
 
 ## Key Findings
-1. Iron deficiency was not consistently associated with depression in any subgroup
-2. Higher ferritin levels were associated with:
-   - Lower depression scores in low-income pregnant women (IRR = 0.996, 95% CI: 0.993-0.999)
-   - Higher depression scores in low-income postpartum women (IRR = 1.004, 95% CI: 1.001-1.006)
+
+### Iron Deficiency (Binary Analysis)
+- Iron deficiency (ferritin < 15 μg/L) showed no significant association with depression
+- This finding was consistent across all groups, regardless of pregnancy status or income level
+
+### Ferritin Levels (Continuous Analysis)
+1. Pregnant Women:
+   - Low-income pregnant women showed lower depression scores with higher ferritin levels
+   - Effect size: IRR = 0.996 (95% CI: 0.993-0.999)
+
+2. Postpartum Women:
+   - Low-income postpartum women showed higher depression scores with higher ferritin levels
+   - Effect size: IRR = 1.004 (95% CI: 1.001-1.006)
+   - Notable contrast with the pregnancy findings
+
+3. Non-pregnant Women:
+   - No significant associations between ferritin levels and depression
+
+### Additional Findings
+- BMI was consistently associated with increased depression risk, particularly in non-pregnant women
+- Age effects varied by group:
+  - Increased depression risk in general low-income population
+  - Decreased depression risk in low-income postpartum women
+- All significant effects were relatively small in magnitude
+
+These findings suggest that the relationship between iron status and depression varies by pregnancy status and income level, though the clinical significance of these small effect sizes requires further investigation.
 
 ## Repository Structure
 ```
@@ -104,7 +126,7 @@ If you use this code or findings in your research, please cite:
 @thesis{hartnett2025iron,
   title={Iron Levels and Depression Symptoms in US Pregnant, Nonpregnant, and Postpartum Women: NHANES 2005-2010 & 2015-2018},
   author={Hartnett, Eileen and Radin, Elizabeth},
-  year={2024},
+  year={2025},
   school={[Columbia University]}
 }
 ```
