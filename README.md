@@ -72,8 +72,8 @@ These findings suggest that the relationship between iron status and depression 
 ├── step3_impute_values.ipynb   # Missing value imputation
 ├── step4_construct_weights.ipynb # Survey weight calculations
 ├── step5_descriptive_stats.ipynb # Detailed descriptive statistics
-├── step6_prevalence_stats.ipynb # Prevalence calculations
-├── step7_logistic_regression.ipynb # Main regression analyses
+├── step6_prevalence_stats.ipynb # Prevalence calculations - Editing notebook will upload soon
+├── step7_logistic_regression.ipynb # Main regression analyses - Editing notebook will upload soon
 └── survey_weights_check.ipynb  # Survey weight validation
 ```
 
