@@ -88,11 +88,11 @@ These findings suggest that the relationship between iron status and depression 
 
 ## Python Dependencies
 Install Python dependencies using:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## R Dependencies
 Install R dependencies using:
-install.packages(c("survey", "ggplot2", "dplyr", "table1", "haven"))
+`install.packages(c("survey", "ggplot2", "dplyr", "table1", "haven"))`
 
 ## Analysis Pipeline
 
