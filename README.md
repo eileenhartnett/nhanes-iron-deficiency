@@ -84,18 +84,15 @@ These findings suggest that the relationship between iron status and depression 
 - Python 3.x
 - R (for R-based analyses)
 
-### Python Packages
-- pandas
-- numpy
-- scipy
-- statsmodels
-- sklearn (for imputation)
+## Project Dependencies
 
-### R Packages
-- survey
-- ggplot2
-- dplyr
-- IRkernel (for R in Jupyter)
+## Python Dependencies
+Install Python dependencies using:
+pip install -r requirements.txt
+
+## R Dependencies
+Install R dependencies using:
+install.packages(c("survey", "ggplot2", "dplyr", "table1", "haven"))
 
 ## Analysis Pipeline
 
